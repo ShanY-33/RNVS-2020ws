@@ -1,2 +1,2 @@
 # RNVS-2020ws
-Rechnernetze und Verteilte Systeme
+Hausaufgaben von Rechnernetze und Verteilte Systeme
